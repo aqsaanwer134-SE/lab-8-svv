@@ -1,6 +1,6 @@
 # Peer Review Comparison
 
-**Peer:** <Classmate Name / Roll No>
+**Peer:** <Humaira / Roll No 077>
 
 ## Theory
 Detection rate measures how effective an inspector was. The union is every distinct
