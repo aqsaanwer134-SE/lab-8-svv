@@ -1,6 +1,5 @@
 # lab-8-svv
 **Course:** Software Verification & Validation (Lab)
-**Student:** <Aqsa>  **Roll No:** <sp24/BSSE090/B>
 
 The Polar Seed Vault System (PSVS) stores sealed boxes of crop seeds deposited by registered institutions (gene banks, universities, governments).
 ## Overview
